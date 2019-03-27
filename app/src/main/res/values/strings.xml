@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GlobalShares</string>
+
+    <string name="sell">Sell</string>
+    <string name="certificate">Certificate #%1$s</string>
+    <string name="issued_date">Issued Date: %1$s</string>
+    <string name="shares_owned">Shares owned: %1$s</string>
+
+    <string name="error_msg_0">Warning: You are selling more than half of your shares. Do you wish to continue?</string>
+    <string name="error_msg_1">You need to sell more than 1 share.</string>
+    <string name="error_msg_2">You can\'t sell more shares than those you have.</string>
+    <string name="error_msg_default">An error has occurred!</string>
+</resources>
